@@ -869,7 +869,7 @@ Start-Process C:\\Windows\\System32\\Reg.exe -ArgumentList "Unload HKLM\\Temp" -
 For any questions or concerns about the information in this paper, contact your Microsoft account team, research the Microsoft VDI blog, post a message to Microsoft forums, or contact Microsoft for questions or concerns.
 
 Reference:
-What is VDI (virtual desktop infrastructure)
-Sysprep fails after you remove or update Microsoft Store apps that include built-in Windows images.
+[What is VDI (virtual desktop infrastructure)](https://www.citrix.com/glossary/vdi.html)
+[Sysprep fails after you remove or update Microsoft Store apps that include built-in Windows images](https://support.microsoft.com/en-us/help/2769827/sysprep-fails-after-you-remove-or-update-windows-store-apps-that-inclu)
 
 
