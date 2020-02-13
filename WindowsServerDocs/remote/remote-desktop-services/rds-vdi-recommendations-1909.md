@@ -870,6 +870,6 @@ For any questions or concerns about the information in this paper, contact your 
 
 Reference:
 [What is VDI (virtual desktop infrastructure)](https://www.citrix.com/glossary/vdi.html)
-[Sysprep fails after you remove or update Microsoft Store apps that include built-in Windows images](https://support.microsoft.com/en-us/help/2769827/sysprep-fails-after-you-remove-or-update-windows-store-apps-that-inclu)
+[Sysprep fails after you remove or update Microsoft Store apps that include built-in Windows images](https://support.microsoft.com/help/2769827/sysprep-fails-after-you-remove-or-update-windows-store-apps-that-inclu)
 
 
